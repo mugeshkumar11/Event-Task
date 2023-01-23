@@ -1,0 +1,50 @@
+.ticket{
+    background-color:cadetblue;
+}
+.ticketflex{
+    background-color: darkgrey;
+    display: flex;
+    justify-content: space-around;
+}
+.ticketbox1{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 60px;
+    margin-bottom: 30px;
+    border-right: 1px solid black;
+}
+.ticketbox2{
+    width: 50%;
+}
+.ticketbox1 input{
+    padding: 10px;
+    margin-left: 45px;
+    width: 20px;
+    height: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.title{
+    padding: 20px;
+    background-color: darkorange;
+    width: 50%;
+    text-align: center;
+}
+.ticketdata h3{
+    padding: 10px;
+}
+.ticketdata button{
+    margin-left: 10px;
+    padding: 10px;
+    background-color: darkorange;
+    border: none;
+}
+.ticketavailable h4{
+padding: 10px;
+}
+.ticketavailable input{
+    width: 20px;
+    height: 20px;
+    }
+
